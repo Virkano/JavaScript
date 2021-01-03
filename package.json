@@ -1,0 +1,16 @@
+{
+  "name": "Javascript",
+  "version": "1.0.0",
+  "description": "web-bookmarks",
+  "main": "index.js",
+  "author": "Kano Zhao <Virkano@163.com>",
+  "license": "ISC",
+  "scripts": {
+    "serve": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "markdown-it-include": "^1.0.0",
+    "vuepress": "^0.14.2"
+  }
+}
