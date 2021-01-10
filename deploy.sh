@@ -18,8 +18,8 @@ git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 # 手动部署
-# git push -f git@github.com:Virkano/web-bookmarks.git master:gh-pages
+# git push -f git@github.com:Virkano/JavaScript.git master:gh-pages
 # 自动部署
-git push -f "https://${access_token}@github.com/Virkano/web-bookmarks.git" master:gh-pages
+git push -f "https://${access_token}@github.com/Virkano/JavaScript.git" master:gh-pages
 
 cd -
