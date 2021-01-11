@@ -23,7 +23,7 @@ module.exports = {
     nav: [
       {
         text: 'Music',
-        link: 'http://virkano.gitee.io/neteasemusic',
+        link: 'https://www.virkano.com/NetEasemusic/#/discovery',
       },
       { 
         text: 'JavaScript',
